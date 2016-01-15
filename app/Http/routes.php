@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/condos/', function () {
     return view('welcome');
 });
